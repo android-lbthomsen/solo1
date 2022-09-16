@@ -243,3 +243,5 @@ You can buy Solo, Solo Tap, and Solo for Hackers at [solokeys.com](https://solok
 [![last commit](https://img.shields.io/github/last-commit/solokeys/solo.svg)](https://github.com/solokeys/solo/commits/master)
 [![commit activity](https://img.shields.io/github/commit-activity/m/solokeys/solo.svg)](https://github.com/solokeys/solo/commits/master)
 [![contributors](https://img.shields.io/github/contributors/solokeys/solo.svg)](https://github.com/solokeys/solo/graphs/contributors)
+
+
